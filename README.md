@@ -9,4 +9,6 @@ The program sorts the array and prints back the records in some sort order.
 gcc -W -Wall -pedanitc -ansi -D DEBUG *.c
 ```
 
+![alt image](https://github.com/XJasonX/RS/blob/master/sample1.png?raw=true)
+
 April 1, 2017
